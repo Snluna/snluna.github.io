@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://snluna.com/sitemap.xml
+Sitemap: http://snluna.com/baidusitemap.xml
