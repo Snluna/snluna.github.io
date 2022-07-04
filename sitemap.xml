@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://snluna.com/2022/07/03/hello-world/</loc>
+    <loc>http://blog.snluna.com/2022/07/04/hello-world/</loc>
     
-    <lastmod>2022-07-03</lastmod>
+    <lastmod>2022-07-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12,8 +12,8 @@
   
 
   <url>
-    <loc>http://snluna.com/</loc>
-    <lastmod>2022-07-03</lastmod>
+    <loc>http://blog.snluna.com/</loc>
+    <lastmod>2022-07-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
